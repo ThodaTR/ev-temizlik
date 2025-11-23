@@ -9,14 +9,15 @@
     "preview": "vite preview"
   },
   "devDependencies": {
+    "@vitejs/plugin-vue": "^5.1.1",
     "autoprefixer": "^10.4.22",
     "postcss": "^8.5.6",
     "tailwindcss": "^4.1.17",
     "typescript": "~5.9.3",
+    "vue": "^3.4.39",
     "vite": "^7.2.4",
     "vite-plugin-pwa": "^1.1.0"
   },
   "dependencies": {
-    "lucide-react": "^0.554.0"
   }
 }
